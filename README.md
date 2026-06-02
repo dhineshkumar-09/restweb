@@ -1,8 +1,6 @@
 # Ex.07 Restaurant Website
 
-DHINESHKUMAR E (24900879)
-
-## Date: 22/12/2024
+## Date: 01/06/2026
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
